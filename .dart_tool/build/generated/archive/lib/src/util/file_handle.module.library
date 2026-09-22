@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":[],"parts":[],"conditionalDeps":[{"$default":"archive|lib/src/util/_file_handle_html.dart","dart.library.io":"archive|lib/src/util/_file_handle_io.dart"}],"sdkDeps":[],"hasMain":false}

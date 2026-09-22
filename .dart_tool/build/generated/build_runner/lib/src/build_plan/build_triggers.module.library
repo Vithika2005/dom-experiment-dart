@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/dart/ast/ast.dart","build_config|lib/build_config.dart","built_collection|lib/built_collection.dart","built_value|lib/built_value.dart","crypto|lib/crypto.dart"],"parts":["build_runner|lib/src/build_plan/build_triggers.g.dart"],"conditionalDeps":[],"sdkDeps":["convert"],"hasMain":false}

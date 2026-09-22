@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["watcher|lib/watcher.dart","build_daemon|lib/data/build_status.dart","build_daemon|lib/data/build_target.dart","build_daemon|lib/data/server_log.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

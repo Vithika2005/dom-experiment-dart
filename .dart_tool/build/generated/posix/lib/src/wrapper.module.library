@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["ffi|lib/ffi.dart","posix|lib/posix.dart","posix|lib/src/util/conversions.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["ffi"],"hasMain":false}

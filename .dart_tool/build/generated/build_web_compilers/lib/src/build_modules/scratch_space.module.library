@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","logging|lib/logging.dart","path|lib/path.dart","scratch_space|lib/scratch_space.dart","build_web_compilers|lib/src/build_modules/workers.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","convert","io","isolate","math"],"hasMain":false}

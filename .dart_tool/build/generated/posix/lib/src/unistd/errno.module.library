@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["posix|lib/src/libc.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["ffi","io"],"hasMain":false}

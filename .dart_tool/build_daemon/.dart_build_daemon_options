@@ -1,0 +1,4 @@
+--define
+build_web_compilers|ddc=generate-full-dill=true
+--build-mode=BuildMode.Auto
+--force-aot

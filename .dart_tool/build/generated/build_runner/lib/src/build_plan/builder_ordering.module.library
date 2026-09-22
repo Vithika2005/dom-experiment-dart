@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build_config|lib/build_config.dart","graphs|lib/graphs.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

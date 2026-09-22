@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["async|lib/async.dart","build|lib/build.dart","crypto|lib/crypto.dart","build_web_compilers|lib/src/build_modules/meta_module.dart","build_web_compilers|lib/src/build_modules/modules.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert"],"hasMain":false}

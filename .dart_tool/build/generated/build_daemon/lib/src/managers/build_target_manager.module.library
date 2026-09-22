@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["watcher|lib/watcher.dart","web_socket_channel|lib/web_socket_channel.dart","build_daemon|lib/data/build_target.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

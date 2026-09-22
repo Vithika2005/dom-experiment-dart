@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["fixnum|lib/fixnum.dart","uuid|lib/data.dart","uuid|lib/parsing.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math","typed_data"],"hasMain":false}

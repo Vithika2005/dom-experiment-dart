@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","glob|lib/glob.dart","meta|lib/meta.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

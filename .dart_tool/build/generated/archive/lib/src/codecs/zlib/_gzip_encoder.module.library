@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":[],"parts":[],"conditionalDeps":[{"$default":"archive|lib/src/codecs/zlib/_gzip_encoder_web.dart","dart.library.io":"archive|lib/src/codecs/zlib/_gzip_encoder_io.dart"}],"sdkDeps":[],"hasMain":false}

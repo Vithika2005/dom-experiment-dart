@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build_runner|lib/src/build_plan/build_spec_digest.dart","build_runner|lib/src/build/library_cycle_graph/phased_asset_deps.dart","build_runner|lib/src/build/build_state/incremental_build_state.dart","build_runner|lib/src/build/build_state/serializers.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","typed_data"],"hasMain":false}

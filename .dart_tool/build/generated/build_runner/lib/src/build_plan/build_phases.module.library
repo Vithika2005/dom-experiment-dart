@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","built_collection|lib/built_collection.dart","convert|lib/convert.dart","crypto|lib/crypto.dart","build_runner|lib/src/exceptions.dart","build_runner|lib/src/logging/build_log.dart","build_runner|lib/src/build_plan/phase.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert"],"hasMain":false}

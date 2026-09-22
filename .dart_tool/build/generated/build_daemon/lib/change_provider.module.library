@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["watcher|lib/watcher.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

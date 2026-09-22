@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Dart DOM Advanced</title>
+
+  <style>
+    body {
+      font-family: Arial;
+      text-align: center;
+      margin: 40px;
+      background: #f5f5f5;
+    }
+
+    h1 {
+      color: #800020;
+    }
+
+    input {
+      padding: 10px;
+      width: 200px;
+      margin-right: 10px;
+    }
+
+    button {
+      padding: 10px 15px;
+      cursor: pointer;
+      background: #800020;
+      color: white;
+      border: none;
+      border-radius: 5px;
+    }
+
+    #taskList {
+      margin-top: 20px;
+    }
+
+    .task {
+      background: white;
+      padding: 10px;
+      margin: 10px auto;
+      width: 300px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+
+      /* Animation */
+      opacity: 0;
+      transform: translateY(20px);
+      transition: all 0.4s ease;
+    }
+
+    .task.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .task.done {
+      text-decoration: line-through;
+      background: #d4edda;
+    }
+
+    .delete-btn {
+      float: right;
+      background: red;
+      padding: 4px 8px;
+      border-radius: 4px;
+    }
+
+  </style>
+</head>
+
+<body>
+
+  <h1>📌 Smart Task Manager (Dart DOM)</h1>
+
+  <input id="taskInput" placeholder="Enter task..." />
+  <button id="addBtn">Add Task</button>
+
+  <div id="taskList"></div>
+
+  <!-- IMPORTANT -->
+  <script defer src="main.dart.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["uuid|lib/enums.dart","uuid|lib/parsing.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["typed_data"],"hasMain":false}

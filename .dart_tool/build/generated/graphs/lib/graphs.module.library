@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["graphs|lib/src/crawl_async.dart","graphs|lib/src/cycle_exception.dart","graphs|lib/src/shortest_path.dart","graphs|lib/src/strongly_connected_components.dart","graphs|lib/src/topological_sort.dart","graphs|lib/src/transitive_closure.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["path|lib/path.dart","build_runner|lib/src/build_plan/pubspecs.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","io"],"hasMain":false}

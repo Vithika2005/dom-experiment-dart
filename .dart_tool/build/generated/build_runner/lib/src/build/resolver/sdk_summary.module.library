@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/dart/sdk/build_sdk_summary.dart","analyzer|lib/file_system/physical_file_system.dart","package_config|lib/package_config.dart","path|lib/path.dart","build_runner|lib/src/bootstrap/build_process_state.dart","build_runner|lib/src/logging/timed_activities.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","io"],"hasMain":false}

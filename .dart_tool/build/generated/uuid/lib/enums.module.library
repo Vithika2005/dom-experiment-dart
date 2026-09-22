@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["uuid|lib/constants.dart","uuid|lib/uuid.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

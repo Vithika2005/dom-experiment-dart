@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build_runner|lib/src/build_plan/build_paths.dart","build_runner|lib/src/bootstrap/aot_compiler.dart","build_runner|lib/src/bootstrap/compiler.dart","build_runner|lib/src/bootstrap/kernel_compiler.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

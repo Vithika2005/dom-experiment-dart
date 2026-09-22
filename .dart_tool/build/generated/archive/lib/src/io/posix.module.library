@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":[],"parts":[],"conditionalDeps":[{"$default":"archive|lib/src/io/posix_html.dart","dart.library.io":"archive|lib/src/io/posix_io.dart"}],"sdkDeps":[],"hasMain":false}

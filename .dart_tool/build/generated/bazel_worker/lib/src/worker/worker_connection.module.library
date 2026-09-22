@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["bazel_worker|lib/src/async_message_grouper.dart","bazel_worker|lib/src/sync_message_grouper.dart","bazel_worker|lib/src/utils.dart","bazel_worker|lib/src/worker_protocol.pb.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","io","isolate","typed_data"],"hasMain":false}

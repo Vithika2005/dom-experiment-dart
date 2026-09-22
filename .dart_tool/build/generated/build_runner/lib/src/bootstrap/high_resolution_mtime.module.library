@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","build_runner|lib/src/bootstrap/powershell.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io"],"hasMain":false}

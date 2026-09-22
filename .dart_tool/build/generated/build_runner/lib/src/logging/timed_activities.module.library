@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build_runner|lib/src/build_plan/phase.dart","build_runner|lib/src/logging/ansi_buffer.dart","build_runner|lib/src/logging/build_log.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

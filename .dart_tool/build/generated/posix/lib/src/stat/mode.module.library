@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","posix|lib/src/posix_exception.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["protobuf|lib/protobuf.dart","bazel_worker|lib/src/message_grouper.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["typed_data"],"hasMain":false}

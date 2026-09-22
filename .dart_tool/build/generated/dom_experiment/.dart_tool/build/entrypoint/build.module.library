@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["build_runner|lib/src/build_plan/builder_factories.dart","build_runner|lib/src/bootstrap/processes.dart","build_web_compilers|lib/builders.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io"],"hasMain":true}

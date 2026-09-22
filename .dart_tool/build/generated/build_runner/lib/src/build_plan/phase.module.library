@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","build_config|lib/build_config.dart","collection|lib/collection.dart","build_runner|lib/src/build_plan/input_matcher.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

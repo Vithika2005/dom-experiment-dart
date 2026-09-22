@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":[],"parts":[],"conditionalDeps":[{"$default":"archive|lib/src/util/_crc64_html.dart","dart.library.isolate":"archive|lib/src/util/_crc64_io.dart"}],"sdkDeps":[],"hasMain":false}

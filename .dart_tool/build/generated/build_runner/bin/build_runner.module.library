@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["build_runner|lib/src/build_runner.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io"],"hasMain":true}

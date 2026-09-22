@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["path|lib/path.dart","pub_semver|lib/pub_semver.dart","dart_style|lib/src/dart_formatter.dart","dart_style|lib/src/source_code.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io","isolate"],"hasMain":false}

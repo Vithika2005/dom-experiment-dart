@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/dart/ast/ast.dart","analyzer|lib/dart/element/element.dart","async|lib/async.dart","build|lib/build.dart","build_runner|lib/src/build/resolver/asset_ids.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

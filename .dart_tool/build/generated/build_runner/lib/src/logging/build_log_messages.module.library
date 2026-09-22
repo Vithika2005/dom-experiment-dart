@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","built_value|lib/built_value.dart","logging|lib/logging.dart","build_runner|lib/src/logging/ansi_buffer.dart","build_runner|lib/src/logging/build_log.dart"],"parts":["build_runner|lib/src/logging/build_log_messages.g.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["path|lib/path.dart","build_runner|lib/src/bootstrap/build_process_state.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

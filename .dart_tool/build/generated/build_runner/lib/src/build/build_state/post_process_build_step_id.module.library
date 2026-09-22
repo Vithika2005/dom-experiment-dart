@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","built_value|lib/built_value.dart","built_value|lib/serializer.dart"],"parts":["build_runner|lib/src/build/build_state/post_process_build_step_id.g.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

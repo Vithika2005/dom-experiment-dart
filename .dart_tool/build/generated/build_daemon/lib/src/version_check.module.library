@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["package_config|lib/package_config.dart","path|lib/path.dart","pub_semver|lib/pub_semver.dart","yaml|lib/yaml.dart","build_daemon|lib/client.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","io"],"hasMain":false}

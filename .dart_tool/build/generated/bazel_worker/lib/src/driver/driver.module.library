@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["bazel_worker|lib/src/constants.dart","bazel_worker|lib/src/worker_protocol.pb.dart","bazel_worker|lib/src/driver/driver_connection.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","collection","io"],"hasMain":false}

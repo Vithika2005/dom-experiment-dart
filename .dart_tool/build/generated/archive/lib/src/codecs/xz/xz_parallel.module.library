@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":[],"parts":[],"conditionalDeps":[{"$default":"archive|lib/src/codecs/xz/_xz_parallel_stub.dart","dart.library.io":"archive|lib/src/codecs/xz/_xz_parallel_io.dart"}],"sdkDeps":[],"hasMain":false}

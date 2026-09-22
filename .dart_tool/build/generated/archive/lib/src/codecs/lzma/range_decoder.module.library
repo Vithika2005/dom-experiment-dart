@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["archive|lib/src/codecs/lzma/range_decoder_table.dart"],"parts":[],"conditionalDeps":[{"$default":"archive|lib/src/codecs/lzma/range_decoder_web.dart","dart.library.isolate":"archive|lib/src/codecs/lzma/range_decoder_native.dart"}],"sdkDeps":[],"hasMain":false}

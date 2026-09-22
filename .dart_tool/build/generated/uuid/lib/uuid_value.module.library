@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["uuid|lib/constants.dart","uuid|lib/parsing.dart","uuid|lib/uuid.dart","uuid|lib/validation.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["typed_data"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["bazel_worker|lib/src/message_grouper.dart","bazel_worker|lib/src/message_grouper_state.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io"],"hasMain":false}

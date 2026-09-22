@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["build_web_compilers|lib/src/build_frontend_server/frontend_server_driver.dart","build_web_compilers|lib/src/build_frontend_server/package_config.dart","build_web_compilers|lib/src/common.dart","logging|lib/logging.dart","path|lib/path.dart","pool|lib/pool.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","io"],"hasMain":true}

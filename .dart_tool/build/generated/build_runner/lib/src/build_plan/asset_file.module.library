@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","built_value|lib/built_value.dart"],"parts":["build_runner|lib/src/build_plan/asset_file.g.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

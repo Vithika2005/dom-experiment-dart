@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["graphs|lib/src/cycle_exception.dart","graphs|lib/src/strongly_connected_components.dart","graphs|lib/src/topological_sort.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection"],"hasMain":false}

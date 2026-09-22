@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["protobuf|lib/src/protobuf/internal.dart","protobuf|lib/src/protobuf/json/json.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert"],"hasMain":false}

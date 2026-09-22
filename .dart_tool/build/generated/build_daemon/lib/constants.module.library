@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["crypto|lib/crypto.dart","path|lib/path.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","io"],"hasMain":false}

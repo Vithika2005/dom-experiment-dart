@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","built_collection|lib/built_collection.dart","build_runner|lib/src/io/build_output_reader.dart","build_runner|lib/src/build/build_state/finished_build_state.dart","build_runner|lib/src/build/library_cycle_graph/phased_asset_deps.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

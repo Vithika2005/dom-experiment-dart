@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","built_collection|lib/built_collection.dart","built_value|lib/built_value.dart","build_runner|lib/src/build/asset_content.dart"],"parts":["build_runner|lib/src/build_plan/build_inputs.g.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

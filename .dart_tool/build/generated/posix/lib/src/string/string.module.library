@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["posix|lib/src/libc.dart","posix|lib/src/util/conversions.dart"],"parts":["posix|lib/src/string/string_functions.dart","posix|lib/src/string/string_types.dart"],"conditionalDeps":[],"sdkDeps":["ffi"],"hasMain":false}

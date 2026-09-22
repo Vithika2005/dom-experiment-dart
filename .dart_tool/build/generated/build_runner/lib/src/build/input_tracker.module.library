@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","build_runner|lib/src/io/filesystem.dart","build_runner|lib/src/build/build_state/glob_id.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection"],"hasMain":false}

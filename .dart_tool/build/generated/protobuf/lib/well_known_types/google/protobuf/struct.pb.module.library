@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["protobuf|lib/protobuf.dart","protobuf|lib/src/protobuf/mixins/well_known.dart","protobuf|lib/well_known_types/google/protobuf/struct.pbenum.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["core"],"hasMain":false}

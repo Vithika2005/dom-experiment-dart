@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","built_collection|lib/built_collection.dart","build_runner|lib/src/build_plan/build_configs.dart","build_runner|lib/src/build_plan/build_directory.dart","build_runner|lib/src/build_plan/build_filter.dart","build_runner|lib/src/build_plan/phase.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

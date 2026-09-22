@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["path|lib/path.dart","build_runner|lib/src/build_plan/build_paths.dart","build_runner|lib/src/bootstrap/build_process_lock.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","convert","io","isolate"],"hasMain":false}

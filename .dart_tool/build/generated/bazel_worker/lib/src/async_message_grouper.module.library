@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["async|lib/async.dart","protobuf|lib/protobuf.dart","bazel_worker|lib/src/message_grouper.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","math","typed_data"],"hasMain":false}

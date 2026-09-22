@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["ffi|lib/ffi.dart","meta|lib/meta.dart","posix|lib/src/libc.dart","posix|lib/src/posix_exception.dart","posix|lib/src/unistd/errno.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["ffi"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["fixnum|lib/fixnum.dart","protobuf|lib/src/protobuf/consts.dart","protobuf|lib/src/protobuf/internal.dart","protobuf|lib/src/protobuf/pb_map.dart","protobuf|lib/src/protobuf/utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","js_interop","js_interop_unsafe"],"hasMain":false}

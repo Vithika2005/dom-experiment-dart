@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["args|lib/command_runner.dart","built_collection|lib/built_collection.dart","build_runner|lib/src/build_runner_command_line.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

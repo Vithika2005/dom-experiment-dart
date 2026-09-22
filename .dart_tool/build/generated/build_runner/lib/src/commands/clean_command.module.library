@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["io|lib/io.dart","path|lib/path.dart","build_runner|lib/src/build_plan/build_paths.dart","build_runner|lib/src/constants.dart","build_runner|lib/src/commands/build_runner_command.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/dart/ast/token.dart","pub_semver|lib/pub_semver.dart","dart_style|lib/src/ast_extensions.dart","dart_style|lib/src/dart_formatter.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

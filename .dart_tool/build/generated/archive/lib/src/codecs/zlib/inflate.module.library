@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["archive|lib/src/util/input_memory_stream.dart","archive|lib/src/util/input_stream.dart","archive|lib/src/util/output_memory_stream.dart","archive|lib/src/util/output_stream.dart","archive|lib/src/codecs/zlib/_huffman_table.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["typed_data"],"hasMain":false}

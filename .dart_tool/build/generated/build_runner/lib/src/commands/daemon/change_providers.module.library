@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build_daemon|lib/change_provider.dart","watcher|lib/watcher.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}
